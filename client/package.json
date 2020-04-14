@@ -5,6 +5,8 @@
   "dependencies": {
     "@chakra-ui/core": "^0.7.0",
     "@emotion/core": "^10.0.28",
+    "@types/socket.io": "^2.1.4",
+    "@types/socket.io-client": "^1.4.32",
     "@emotion/styled": "^10.0.27",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -41,9 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@types/socket.io": "^2.1.4",
-    "@types/socket.io-client": "^1.4.32"
   }
 }
